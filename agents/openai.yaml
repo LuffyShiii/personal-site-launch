@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人网站从零到上线"
+  short_description: "带非技术用户构建个人展示网站，并交付文件夹自动更新、结果通知与恢复方法"
+  default_prompt: "请使用 $personal-site-launch 帮我从零建立个人展示网站，先沟通需求和展示设计，再完成上线、文件夹自动更新及实际验收。"
