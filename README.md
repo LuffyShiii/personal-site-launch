@@ -43,3 +43,7 @@ python3 scripts/test_parse_content.py
 - [assets/](assets/)：可复制的普通文本和 Markdown 模板。
 - [scripts/](scripts/)：只读转换器和行为测试。
 - [agents/openai.yaml](agents/openai.yaml)：Codex 可选界面元数据；其他 Agent 无需依赖它。
+
+## License
+
+本项目采用 [MIT License](LICENSE)。Copyright (c) 2026 Qichen Shi。
